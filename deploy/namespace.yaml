@@ -1,0 +1,8 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: postgresql
+  labels:
+    name: pq-consent-api
+status:
+  phase: Active
